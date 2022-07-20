@@ -126,7 +126,7 @@ body{
 }
 
 .rodape{
-    background: url(./images/pexels-engin.jpg) center center no-repeat;
+    background: url(../images/pexels-engin.jpg) center center no-repeat;
     padding: 35px 30px;
     background-size: cover;
 }
