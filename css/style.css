@@ -205,13 +205,13 @@ body{
 .styled {
     border: 0;
     line-height: 2.5;
-    padding: 0 20px;
+    padding: 0 120px;
     font-size: 2rem;
     text-align: center;
     color: rgb(255, 255, 255);
     text-shadow: 1px 1px 1px #000;
     border-radius: 10px;
-    background-color: rgb(57, 227, 0);
+    background-color: rgb(46, 134, 87, 1);
    
 }
 
